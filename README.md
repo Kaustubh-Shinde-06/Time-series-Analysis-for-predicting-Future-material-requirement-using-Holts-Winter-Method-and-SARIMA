@@ -1,4 +1,4 @@
-# Time-series-Analysis-for-predicting-Future-sales-using-Holts-Winter-Method-and-SARIMA
+# Time-series-Analysis-for-predicting-Future-material-need-using-Holts-Winter-Method-and-SARIMA
 
 The purpose of this project is to anticipate future material need for each client based on previous orders. The Triple exponential smoothing approach (Holt-model) Winter's is one of the methods utilised, while the SARIMA (Seasonal Auto Regressive Integrated Moving Average) model is the other. In addition to seasonality and trend, the former method can capture non-seasonal trends with repeated patterns that are not random noise.
 
